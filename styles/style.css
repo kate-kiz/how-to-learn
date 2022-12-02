@@ -172,10 +172,11 @@
   font-size: 18px;
   font-weight: normal;
   margin: 0;
+  margin-bottom: 20px;
 }
 
-.table__text:first-of-type {
-  margin-bottom: 20px;
+.table__text:last-child {
+  margin-bottom: 0;
 }
 
 .digits {
