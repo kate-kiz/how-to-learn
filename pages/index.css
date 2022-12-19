@@ -1,12 +1,14 @@
 @import url(../vendor/normalize.css);
 
+@import url(../vendor/normalize.css);
+
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
 
 @import url(../blocks/logo/logo.css);
 
-@import url(../blocks/logo/logo_place_header.css);
+@import url(../blocks/logo/_place/logo_place_header.css);
 
 @import url(../blocks/header/__title/header__title.css);
 
@@ -78,7 +80,7 @@
 
 @import url(../blocks/footer/__columns/footer__columns.css);
 
-@import url(../blocks/footer/footer__column/footer__column_content_copyright.css);
+@import url(../blocks/footer/footer__column/_content/footer__column_content_copyright.css);
 
 @import url(../blocks/footer/__author/footer__author.css);
 
