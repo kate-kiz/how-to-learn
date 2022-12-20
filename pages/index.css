@@ -1,7 +1,5 @@
 @import url(../vendor/normalize.css);
 
-@import url(../vendor/normalize.css);
-
 @import url(../blocks/page/page.css);
 
 @import url(../blocks/header/header.css);
@@ -80,7 +78,7 @@
 
 @import url(../blocks/footer/__columns/footer__columns.css);
 
-@import url(../blocks/footer/footer__column/_content/footer__column_content_copyright.css);
+@import url(../blocks/footer/__column/_content/footer__column_content_copyright.css);
 
 @import url(../blocks/footer/__author/footer__author.css);
 
